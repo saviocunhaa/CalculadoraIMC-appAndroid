@@ -40,6 +40,11 @@ Implementação de lógica de cálculo e design responsivo.
 
 ## ✨ Imagens
 
+![image](https://github.com/saviocunhaa/CalculadoraIMC-appAndroid/assets/12139704/24934fa5-8933-441c-8416-a8d5c697753b)
+![image](https://github.com/saviocunhaa/CalculadoraIMC-appAndroid/assets/12139704/4b75af0c-baaf-4575-81b9-2390f9e7d19f)
+![image](https://github.com/saviocunhaa/CalculadoraIMC-appAndroid/assets/12139704/5940f200-742a-42e5-9272-ca06e15c403b)
+![image](https://github.com/saviocunhaa/CalculadoraIMC-appAndroid/assets/12139704/600222b1-c0dc-4333-bb30-6ffafcb8a93b)
+
 
 ## 🔖 Como Usar
 
