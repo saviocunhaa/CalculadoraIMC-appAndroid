@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculadora de IMC</string>
+    <string name="kg">Kg</string>
+    <string name="m">M</string>
+    <style name="Button.NoOutline" parent="Widget.MaterialComponents.Button.TextButton">
+        <item name="strokeWidth">0dp</item>
+        <item name="strokeColor">@android:color/transparent</item>
+    </style>
+</resources>
